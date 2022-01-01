@@ -1,2 +1,2 @@
 # PipeToClipboard
-Reads STDIN and copies to the lines to the clipboard
+Reads STDIN and copies the lines to the clipboard
